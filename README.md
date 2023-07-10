@@ -24,8 +24,8 @@
 Current Goals / Studying
 </h1>
 
-- I’m currently working on getting my OSCP
+- OSCP / GCIH / GCFE
 - Avid player of HTB + HTB Ambassador
 - BSIDES Tampa 2020 CTF Winner, 2nd Place LNRSG CTF, Top 1% NCL
 - I’m currently learning buffer overflows, AD enumeration/hacking, and C2 platforms
-- Ask me about Pentesting / Getting into CyberSecurity
+- Enjoy learning about both sides of security
